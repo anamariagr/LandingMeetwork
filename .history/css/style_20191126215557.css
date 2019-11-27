@@ -1,0 +1,125 @@
+.logo{
+    width: 200px;
+}
+p,h3{
+    font-family: 'Lato', sans-serif;
+    color: #2e4471;
+    letter-spacing: -1px;
+}
+.section-nav{
+    background-color: #2E4471;
+    height: 80px;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+}
+.kampus{
+    color: #2e4471;
+    padding: 2px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    font-size: 32px;
+    padding-top: 15px;
+}
+.line{
+    border-bottom: solid 3px #34d488;
+    width: 225px;
+    margin: auto;
+}
+.theWoman{
+    padding: 0;
+    font-size: 27px;
+    color: #2e4471;
+    padding-top: 15px;
+    margin-bottom: 15px;
+}
+.inputWithIcon  input[type=text]{
+    padding-left:40px; 
+}
+.inputWithIcon{
+    position: relative;
+}
+.inputWithIcon i{
+    position: absolute;
+    left: 0;
+    top:12px;
+    padding: 2px;
+    padding-left: 18px;
+    color: lightgrey;
+    font-size: 20px;
+}
+#input{
+    border: solid 1px #34d488;
+    border-radius: 15px;
+    color: #2e4471;
+    padding: 23px;
+    padding-left: 68px;
+    font-size: 12px;
+    font-weight: 100;
+}
+.spekers{
+    font-weight: 900;
+    font-size: 22px;
+}
+.pInput{
+    font-size: 23px;
+}
+.grupo-1{
+    width: 100%;
+}
+
+.faces{
+    width: 65%;
+}
+.data{
+    width: 23%;
+    padding: 10px;
+
+}
+
+.plants1{
+    width: 70%;
+    position: relative;
+    bottom: 10px;
+}
+.plants2{
+    width: 50%;
+    position: relative;
+    bottom: 20px;
+}
+.infoDirection{
+    width: 190px;
+    margin: auto;
+    position: relative;
+    left: -50px;
+    top: 22px;
+}
+.organiza{
+    position: relative;
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+.groupFooter{
+    width: 100%;
+    padding-bottom: 20px;
+
+}
+.footer{
+    background-color: #2ED887;
+    height: 70px;
+    width: 100%;
+    padding: 25px;
+    color: white;
+}
+.title-footer{
+    color: white;
+    font-weight: 800;
+    font-size: 15px;
+
+}
+.line2{
+    border-top: solid 3px #34d887;
+}
+.icon{
+    width: 35%;
+}
